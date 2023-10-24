@@ -23,9 +23,13 @@ Ce projet vise à créer une plateforme d'offres d'emploi permettant aux utilisa
 
 3. **Ouvrez deux terminales dans votre éditeur de code.**
 
-4. **Dans le premier terminal, exécutez :** `cd Backend && php -S localhost:3000`
+4. **Aller dans config.php et modifier l'identifiant et le mot de passe, puis les remplacer par ceux que vous avez pour vous connecter a PHPMYADMIN** 
 
-5. **Dans le second terminal, exécutez :** `cd Frontend && npm run start`
+5. **Dans le premier terminal, exécutez :** `cd Backend && php -S localhost:3000`
+
+6. **Dans le second terminal, exécutez :** `cd Frontend && npm run start`
+
+
 
 ## **Licence**
 
